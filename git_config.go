@@ -24,12 +24,12 @@ func f(f *cmdutil.Factory) ConfStruct {
 	return opts
 }
 
-var httpClient, _ = f(factory.New("x")).HttpClient()
+var httpClient, _ = f(factory.New()).HttpClient()
 
 var apiClient = api.NewClientFromHTTP(httpClient)
 var currentUser, _ = api.CurrentLoginName(apiClient, ghinstance.Default())
 
-var cmdFactory = factory.New("x")
+var cmdFactory = factory.New()
 var configRootCmd = NewCmdConfigRoot(cmdFactory)
 var cfg, _ = cmdFactory.Config()
 
