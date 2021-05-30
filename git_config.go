@@ -46,7 +46,7 @@ func GitConfig() string {
 }
 
 func GitConfigWithMsg(msg1 string, msg2 string) string {
-	if cmdutil.IsAuthCheckEnabled(cmd) && !cmdutil.CheckAuth(cfg) {
+	if cmd != nil && cmdutil.IsAuthCheckEnabled(cmd) && !cmdutil.CheckAuth(cfg) {
 		return msg1 + ":username" + msg2
 	} else {
 		return msg1 + currentUser + msg2
