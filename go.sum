@@ -246,6 +246,10 @@ github.com/secman-team/gh-api v0.2.56/go.mod h1:VvNly54092n0+Kgv9uorvbL5LOPnArnd
 github.com/secman-team/gh-api v0.2.57/go.mod h1:T+Zft/xibkGTUoag+zM2oC4kj4JdVX1utMfuvBe16Oo=
 github.com/secman-team/gh-api v0.2.571 h1:OfD47WA1CKuEYxtFcoPEitXg4zR/k/rSk6ZKUQWl6e8=
 github.com/secman-team/gh-api v0.2.571/go.mod h1:LLjNGt6pdLoLoBy+AneCCElzSwJnbAHeEu0HHOsFbQo=
+github.com/secman-team/gh-api v0.3.0 h1:TTJhW4O7NFk5Wd68M9xfXh5PDddbcLMAUjDpLKccbiM=
+github.com/secman-team/gh-api v0.3.0/go.mod h1:4On/2LlTPQ2SxGqNmhW6WVE4nSZoHqUBpZunlyEEWp4=
+github.com/secman-team/gh-api v1.8.2 h1:1FT7LmygI/LuGlx1Z0FiNFsJ+aihc/nu67EtrHxUD5I=
+github.com/secman-team/gh-api v1.8.2/go.mod h1:4On/2LlTPQ2SxGqNmhW6WVE4nSZoHqUBpZunlyEEWp4=
 github.com/secman-team/secman v0.0.0-20210507183205-8a23a96e5322/go.mod h1:elGxrzaDDHvJNogVJp2LodA9J7Rx6WdQowdG46fSSoU=
 github.com/secman-team/secman v0.0.0-20210530191441-f311d407592f/go.mod h1:NZnkI5VEDKGgLqecB2RSsfKAhVzUXkJ45ZtySOsGtmI=
 github.com/secman-team/shell v0.3.1/go.mod h1:+kAfttTSmyjzVbKIksunNkDxJONomZp52cwY/PgCHHs=
