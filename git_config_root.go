@@ -1,7 +1,7 @@
 package git_config
 
 import (
-	"github.com/secman-team/gh-api/pkg/cmdutil"
+	"github.com/scmn-dev/gh-api/pkg/cmdutil"
 	"github.com/spf13/cobra"
 )
 
