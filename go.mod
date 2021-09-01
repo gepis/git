@@ -1,4 +1,4 @@
-module github.com/abdfnx/git_config
+module github.com/abdfnx/git_config/v1
 
 go 1.13
 
