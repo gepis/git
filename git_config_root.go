@@ -1,4 +1,4 @@
-package git_config
+package git
 
 import (
 	"github.com/scmn-dev/gh-api/pkg/cmdutil"
