@@ -1,4 +1,4 @@
-module github.com/scmn-dev/git
+module github.com/gepis/git
 
 go 1.13
 
