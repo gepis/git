@@ -31,7 +31,7 @@ var currentUser, _ = api.CurrentLoginName(apiClient, ghinstance.Default())
 
 var cmdFactory = factory.New()
 var configRootCmd = NewCmdConfigRoot(cmdFactory)
-var cfg, _ = cmdFactory.Cluster()
+var cfg, _ = cmdFactory.ClusterFunc()
 
 var expandedArgs = []string{}
 
