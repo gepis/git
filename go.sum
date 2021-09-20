@@ -186,6 +186,7 @@ github.com/fsnotify/fsnotify v1.4.9 h1:hsms1Qyu0jgnwNXIxa+/V/PDsU6CfLf6CNO8H7IWo
 github.com/fsnotify/fsnotify v1.4.9/go.mod h1:znqG4EE+3YCdAaPaxE2ZRY/06pZUdp0tY4IgpuI1SZQ=
 github.com/gabriel-vasile/mimetype v1.1.2 h1:gaPnPcNor5aZSVCJVSGipcpbgMWiAAj9z182ocSGbHU=
 github.com/gabriel-vasile/mimetype v1.1.2/go.mod h1:6CDPel/o/3/s4+bp6kIbsWATq8pmgOisOPG40CJa6To=
+github.com/gepis/git v1.0.2/go.mod h1:ncCqZZeMRyQnnhbcZQiD6bYl+/KOobZX0OWvzPtTwxk=
 github.com/gepis/sm-gh-api v0.3.52 h1:vdl6W0km5e6fxZhyE5WGRZS1cPTD5QibG/ZOsYhdMFE=
 github.com/gepis/sm-gh-api v0.3.52/go.mod h1:KhT7RWJiZHRM/wF2kmoRKjC3nbr0iOpZ3HQEV4Iu69c=
 github.com/gepis/sm-gh-api v0.3.53 h1:4Gu11SLusj6pdAOIldJAZeM2Jt7gYVzwwzOD6EP/T+o=
@@ -194,6 +195,8 @@ github.com/gepis/sm-gh-api v0.3.54 h1:kRTJ7mhGtcfX8s5pi96nK3gM/yEclpTK6vOa9x9puS
 github.com/gepis/sm-gh-api v0.3.54/go.mod h1:KhT7RWJiZHRM/wF2kmoRKjC3nbr0iOpZ3HQEV4Iu69c=
 github.com/gepis/sm-gh-api v0.3.55 h1:JZ4PJPlE8vYf6e0qJLy8Wau0U/WCL0eNsrVMzVWhmrI=
 github.com/gepis/sm-gh-api v0.3.55/go.mod h1:KhT7RWJiZHRM/wF2kmoRKjC3nbr0iOpZ3HQEV4Iu69c=
+github.com/gepis/sm-gh-api v0.3.56 h1:+I/Euds4yXQAjPp/hOcCwFI+CgPmWp73/ne2KCfwIrE=
+github.com/gepis/sm-gh-api v0.3.56/go.mod h1:ou5Cu5LwASsNpSVV5YAM01SLusKehEURsttxTGLp45k=
 github.com/ghodss/yaml v1.0.0 h1:wQHKEahhL6wmXdzwWG11gIVCkOv05bNOh+Rxn0yngAk=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/go-gl/glfw v0.0.0-20190409004039-e6da0acd62b1 h1:QbL/5oDUmRBzO9/Z7Seo6zf912W/a6Sr4Eu0G/3Jho0=
@@ -516,6 +519,7 @@ github.com/ryanuber/columnize v0.0.0-20160712163229-9b3edd62028f h1:UFr9zpz4xgTn
 github.com/ryanuber/columnize v0.0.0-20160712163229-9b3edd62028f/go.mod h1:sm1tb6uqfes/u+d4ooFouqFdy9/2g9QGwK3SQygK0Ts=
 github.com/scmn-dev/browser v0.1.0 h1:uKoc0AVGTtcfFViNM1TL6DYMjt0g9DpdX7lMsn7AHaQ=
 github.com/scmn-dev/browser v0.1.0/go.mod h1:3wshMIhDXDjg9C04LwKfAWdZ28TYCWQqqHcTMAh9SHQ=
+github.com/scmn-dev/gh-api v0.3.5/go.mod h1:ydYzo2zM9rLvzDhNzbMkiiIv99Q7Bm6MNZj4ewQyjyw=
 github.com/scmn-dev/gh-api v0.3.32/go.mod h1:DELTISOMbLzqHdJ/LReVEi3ERfo9hwrrK5YkPFPPBZo=
 github.com/scmn-dev/gh-api v0.3.33/go.mod h1:Q4W7ZpDKUTJZ+KokLo8paVqDVZ/SXTAkzaR2VPpQB0g=
 github.com/scmn-dev/gh-api v0.3.41 h1:w+0shJSu2rm8mEHGkXIdk3aa3qdn7nzD74oRrP1Df8w=
@@ -530,6 +534,7 @@ github.com/scmn-dev/secman v0.0.0-20210831164109-5ddbb1cdc3dc h1:EPU3N+TYAeZ3IZl
 github.com/scmn-dev/secman v0.0.0-20210831164109-5ddbb1cdc3dc/go.mod h1:XJeaKbYlxEZvcsaSV62JnbZGZMjd+iG1UuiFOlGTTuM=
 github.com/scmn-dev/secman v0.0.0-20210902065137-f250bba2eb2c h1:4hFZ34M6d3JxlJmUNohum2GkjjNtCUS8wVY6L9RB5rI=
 github.com/scmn-dev/secman v0.0.0-20210902065137-f250bba2eb2c/go.mod h1:pR2R+fNx7yCwYvGP3ia37u7tyhdoU0TcV6bHyS3BIgE=
+github.com/scmn-dev/secman v0.0.0-20210920090640-a4f9f6c08509/go.mod h1:q45hx6ypQvJu+wSsRIkSCnEt9w9jRNmnDwcz/++Coro=
 github.com/scmn-dev/version-checker v0.1.43/go.mod h1:EcUfBf8tSrPyw0p6ky6+dFJoUVaLA5ILZDFYCCHl4dM=
 github.com/scmn-dev/version-checker v0.1.44 h1:5nyJTeWyHqDjpBzQJB4rV17AE5ksHaff1RMdMOvg6KY=
 github.com/scmn-dev/version-checker v0.1.44/go.mod h1:YWUr+MGKeWNbgxig2wRl3SdFdNelP/cfrOQnnJa4bUA=
