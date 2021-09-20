@@ -1,13 +1,13 @@
 package git
 
 import (
-	"github.com/scmn-dev/gh-api/pkg/cmdutil"
-	"github.com/scmn-dev/gh-api/api"
-	"github.com/scmn-dev/gh-api/core/ghinstance"
+	"github.com/gepis/sm-gh-api/pkg/cmdutil"
+	"github.com/gepis/sm-gh-api/api"
+	"github.com/gepis/sm-gh-api/core/ghinstance"
 	"net/http"
-	"github.com/scmn-dev/gh-api/pkg/iostreams"
-	"github.com/scmn-dev/gh-api/core/ghrepo"
-	"github.com/scmn-dev/gh-api/pkg/cmd/factory"
+	"github.com/gepis/sm-gh-api/pkg/iostreams"
+	"github.com/gepis/sm-gh-api/core/ghrepo"
+	"github.com/gepis/sm-gh-api/pkg/cmd/factory"
 )
 
 type ConfStruct struct {
@@ -31,7 +31,7 @@ var currentUser, _ = api.CurrentLoginName(apiClient, ghinstance.Default())
 
 var cmdFactory = factory.New()
 var configRootCmd = NewCmdConfigRoot(cmdFactory)
-var cfg, _ = cmdFactory.Cluster()
+var cfg, _ = cmdFactory.Config()
 
 var expandedArgs = []string{}
 

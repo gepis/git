@@ -1,7 +1,7 @@
 package git
 
 import (
-	"github.com/scmn-dev/gh-api/pkg/cmdutil"
+	"github.com/gepis/sm-gh-api/pkg/cmdutil"
 	"github.com/spf13/cobra"
 )
 
