@@ -187,6 +187,7 @@ github.com/gabriel-vasile/mimetype v1.1.2 h1:gaPnPcNor5aZSVCJVSGipcpbgMWiAAj9z18
 github.com/gabriel-vasile/mimetype v1.1.2/go.mod h1:6CDPel/o/3/s4+bp6kIbsWATq8pmgOisOPG40CJa6To=
 github.com/gepis/git v1.0.2/go.mod h1:ncCqZZeMRyQnnhbcZQiD6bYl+/KOobZX0OWvzPtTwxk=
 github.com/gepis/git v1.0.6/go.mod h1:jIyctQSebfhV8MRlLRHNLWEmhyQCrh7QkODI56sG49Q=
+github.com/gepis/git v1.0.8/go.mod h1:oXg/a3rRu1ChiTXCP64ejNw3+CWxj4riXwWSIX7Xw9s=
 github.com/gepis/sm-gh-api v0.3.52 h1:vdl6W0km5e6fxZhyE5WGRZS1cPTD5QibG/ZOsYhdMFE=
 github.com/gepis/sm-gh-api v0.3.52/go.mod h1:KhT7RWJiZHRM/wF2kmoRKjC3nbr0iOpZ3HQEV4Iu69c=
 github.com/gepis/sm-gh-api v0.3.53 h1:4Gu11SLusj6pdAOIldJAZeM2Jt7gYVzwwzOD6EP/T+o=
@@ -201,6 +202,8 @@ github.com/gepis/sm-gh-api v0.3.57 h1:fheFuDdoKQ7IH6WQnaRCqW52CSIFYR7Nf2Vt8XuRsX
 github.com/gepis/sm-gh-api v0.3.57/go.mod h1:jQdWo87lYvAnCjz6KGs669OD+1xCY+X7RMIYBOjKFuw=
 github.com/gepis/sm-gh-api v0.3.58 h1:ebQp3NT54Ka5tqOve86fCQ1kAhFWZGKv8c4j4BB/JKQ=
 github.com/gepis/sm-gh-api v0.3.58/go.mod h1:FiyXjqgDH5viGqFT0qlVeHE7jyuizJeeyPzvdebq27k=
+github.com/gepis/sm-gh-api v0.3.61 h1:CpkrDknYV/hs7ETzr1emi4OnWL6wtjFUX5XqhvCYC48=
+github.com/gepis/sm-gh-api v0.3.61/go.mod h1:Ar56YXFWsYnvjBkQ2+f6LZ7rcf6EiqX9rS68+rANc24=
 github.com/ghodss/yaml v1.0.0 h1:wQHKEahhL6wmXdzwWG11gIVCkOv05bNOh+Rxn0yngAk=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/go-gl/glfw v0.0.0-20190409004039-e6da0acd62b1 h1:QbL/5oDUmRBzO9/Z7Seo6zf912W/a6Sr4Eu0G/3Jho0=
@@ -524,6 +527,7 @@ github.com/ryanuber/columnize v0.0.0-20160712163229-9b3edd62028f/go.mod h1:sm1tb
 github.com/scmn-dev/browser v0.1.0 h1:uKoc0AVGTtcfFViNM1TL6DYMjt0g9DpdX7lMsn7AHaQ=
 github.com/scmn-dev/browser v0.1.0/go.mod h1:3wshMIhDXDjg9C04LwKfAWdZ28TYCWQqqHcTMAh9SHQ=
 github.com/scmn-dev/browser v0.1.2/go.mod h1:3wshMIhDXDjg9C04LwKfAWdZ28TYCWQqqHcTMAh9SHQ=
+github.com/scmn-dev/browser v0.1.3/go.mod h1:3wshMIhDXDjg9C04LwKfAWdZ28TYCWQqqHcTMAh9SHQ=
 github.com/scmn-dev/gh-api v0.3.5/go.mod h1:ydYzo2zM9rLvzDhNzbMkiiIv99Q7Bm6MNZj4ewQyjyw=
 github.com/scmn-dev/gh-api v0.3.32/go.mod h1:DELTISOMbLzqHdJ/LReVEi3ERfo9hwrrK5YkPFPPBZo=
 github.com/scmn-dev/gh-api v0.3.33/go.mod h1:Q4W7ZpDKUTJZ+KokLo8paVqDVZ/SXTAkzaR2VPpQB0g=
